@@ -1,6 +1,6 @@
 
 # Handwritten Grapheme Classification In Bengali Language Using MobileNet
-This is implementation of 
+This is implementation of [Coming Soon](#)
 
 The Bengali language comprises numerous graphemes, which are the smallest functional units in a writing system. Detecting these graphemes is crucial for developing an OCR application.
 
@@ -30,7 +30,12 @@ python main.py --mode test
 
 ## Citetation
 If you find this codebase useful, please cite our paper:
+```
+Coming Soon
+```
 
 ## Acknowledgement
-We follow the tutorial of [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur) Youtube Channel.
-# Handwritten Grapheme Classification In Bengali Language Using MobileNet
+We refer to tutorial from [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur) Youtube Channel.
+
+## License
+Our code is BSD-3 licensed. See LICENSE.txt for details.
