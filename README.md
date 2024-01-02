@@ -1,6 +1,6 @@
 
 # Handwritten Grapheme Classification In Bengali Language Using MobileNet
-This is implementation of [this]([#](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170422019.94163857/v1))
+This is implementation of [this paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170422019.94163857/v1)
 
 The Bengali language comprises numerous graphemes, which are the smallest functional units in a writing system. Detecting these graphemes is crucial for developing an OCR application.
 
