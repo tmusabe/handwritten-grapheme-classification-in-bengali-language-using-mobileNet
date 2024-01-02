@@ -1,6 +1,6 @@
 
 # Handwritten Grapheme Classification In Bengali Language Using MobileNet
-This is implementation of [Coming Soon](#)
+This is implementation of [this]([#](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170422019.94163857/v1))
 
 The Bengali language comprises numerous graphemes, which are the smallest functional units in a writing system. Detecting these graphemes is crucial for developing an OCR application.
 
@@ -31,7 +31,12 @@ python main.py --mode test
 ## Citetation
 If you find this codebase useful, please cite our paper:
 ```
-Coming Soon
+@article{taif2024Grap,
+  title={Handwritten Grapheme Classification in Bengali Language Using MobileNet},
+  author={Taif Al Musabe},
+  journal={techRxiv preprint techrxiv.170422019.94163857},
+  year={2024}
+}
 ```
 
 ## Acknowledgement
